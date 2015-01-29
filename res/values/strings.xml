@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alsouq</string>
+    <string name="hello_world">Welcome to AlSouq</string>
+    <string name="action_settings">Settings</string>
+    <string name="userlogin">Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="signup">SignUp</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="singin">SignIn</string>
+    <string name="firstname">FirstName</string>
+    <string name="repasswd">RetypePassword</string>
+    <string name="address">Address</string>
+    <string name="phone">Mobile</string>
+    <string name="text">Textone</string>
+    <string name="email_forgotpassword">Email or Username</string>
+    <string name="send_verification_email">Send verification email</string>
+    <string name="fname">Name</string>
+    <string name="hello_customer">Welcome User</string>
+
+</resources>
